@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Get and set default types</Text>
+    <Description>Some description for RAB_DefaultTypeDemo</Description>
+    <Assembly>RAB_DefaultTypeDemo.dll</Assembly>
+    <FullClassName>RAB_DefaultTypeDemo.Command</FullClassName>
+    <ClientId>ba621210-75f3-4a9e-85e5-9fcf3d5f846b</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
